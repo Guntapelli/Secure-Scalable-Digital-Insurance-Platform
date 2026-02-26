@@ -1,0 +1,19 @@
+Compute: EC2, Auto Scaling, ECS (Docker Containers)
+
+Storage: S3 (documents & backups), EBS
+
+Database: RDS (MySQL/PostgreSQL)
+
+Networking: VPC, Subnets, Security Groups, NACL
+
+Load Balancer: ALB
+
+CI/CD: Jenkins, Git, CodePipeline
+
+IaC: Terraform / CloudFormation
+
+Monitoring: CloudWatch, Prometheus, Grafana
+
+Security: IAM Roles, KMS, WAF
+
+Version Control: GitHub / Bitbucket
