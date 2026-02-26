@@ -1,0 +1,5 @@
+The project is a cloud-based digital insurance platform designed to manage policy issuance, customer onboarding, claims processing, and payment services.
+
+The application is hosted on AWS cloud with automated CI/CD pipelines, Infrastructure as Code (IaC), containerization, monitoring, and security best practices to ensure high availability, scalability, and reliability.
+
+The platform supports thousands of users and ensures secure financial transactions with minimal downtime.  
